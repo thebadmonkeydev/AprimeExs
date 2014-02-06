@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=list
+comment0.target=void\ selectionSort(Comparable[])
+comment0.text=\nSorts\ a\ Comparable\ list\ using\ the\ Selection\ sort\ Algorithm.\n\n@param\ \ \ Comparable[]\n\n
+comment1.params=list
+comment1.target=void\ bubbleSort(Comparable[])
+comment1.text=\nSorts\ a\ Comparable\ list\ using\ the\ bubble\ sort\ Algorithm\n\n@param\ \ \ Comparable[]\n\n
+numComments=2
